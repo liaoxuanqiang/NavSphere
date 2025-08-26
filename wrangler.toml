@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23liG1cViUecmIjhx7"
 GITHUB_OWNER = "liaoxuanqiang"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere.liaox.dpdns.org/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere.liaox.dpdns.org"
+NEXTAUTH_URL = "https://navsphere-8bg.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://navsphere-8bg.pages.dev"
 
